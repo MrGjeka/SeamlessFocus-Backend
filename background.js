@@ -1,5 +1,5 @@
-const CLIENT_ID ='c08dd0211d9247a3b9f70cc54033f6ac';
-const REDIRECT_URI = 'https://cicdifcndkbmknnbcbajepjmbhiiopom.chromiumapp.org/';
+const CLIENT_ID ='##############################';
+const REDIRECT_URI = 'https://##############################.chromiumapp.org/';
 const SCOPE = 'user-read-private user-read-email playlist-read-private user-library-read user-modify-playback-state user-read-playback-state';
 
 // Remove CLIENT_SECRET and TOKEN_ENDPOINT as they are not needed
